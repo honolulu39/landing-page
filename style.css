@@ -68,6 +68,7 @@ ul li {
     white-space: nowrap;
 }
 
+
 ul a:hover {
     text-decoration: underline;
 }
@@ -185,4 +186,14 @@ button {
     font-size: 18px;
     text-align: center;
 
+}
+
+.footer a {
+    text-decoration: none;
+    color: rgb(170, 170, 170);
+}
+
+.footer a:hover {
+    color: #E5E7EB;
+    text-decoration: underline;
 }
